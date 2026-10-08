@@ -52,7 +52,7 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "https://your-digital-twin.netlify.app",
+        "https://startling-sunshine-d8e68c.netlify.app"
         "http://localhost:5173",
         "http://127.0.0.1:5173",
     ],
