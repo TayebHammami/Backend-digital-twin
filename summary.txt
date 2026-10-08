@@ -1,0 +1,59 @@
+## Taieb Hammami — Academic & Technical Profile
+
+Taieb Hammami is a Tunisian **AI and Software Developer** currently pursuing a **Master’s degree in Information Systems and New Technologies (Master de Recherche – Systèmes d’Information et Nouvelles Technologies)**.
+
+He previously obtained a **Master’s degree in Data Science and Engineering (SIDATA)** and a **Bachelor’s degree in Business Information Systems, specializing in Business Intelligence**.
+
+### Academic & Technical Focus
+
+His current interests are centered around **Artificial Intelligence, Natural Language Processing (NLP), Agentic AI, intelligent information systems, and machine learning**.
+
+He is particularly interested in understanding how modern AI systems can perceive information, reason over it, use external tools, retrieve knowledge, and autonomously execute multi-step tasks.
+
+Current areas of learning include:
+
+* **Agentic AI & AI Agents**
+* **LLM-based applications**
+* **Natural Language Processing (NLP)**
+* **RAG (Retrieval-Augmented Generation)**
+* **Tool Calling & Function Calling**
+* **AI Agent Workflows**
+* **Multi-Agent Systems**
+* **LangGraph, LangChain, CrewAI and OpenAI Agents SDK**
+* **Prompt Engineering**
+* **Machine Learning & Deep Learning**
+* **Computer Vision & OCR**
+* **Intelligent Information Systems**
+* **Vector Databases and Semantic Search**
+* **AI application architecture**
+
+### Main AI Project
+
+His Master's project focused on an **AI-powered Cheque Reader**, combining computer vision, OCR, deep learning, and mobile development.
+
+The system uses technologies such as **YOLO, Roboflow, TrOCR, CNN/LSTM/CTC, Flutter, Flask and OpenCV** to detect cheque fields and recognize handwritten amounts.
+
+### Other Projects
+
+* **YOOREED:** Flutter + Laravel + Firebase platform for managing and tracking company offers.
+* **Heart Failure Prediction:** Machine Learning model exposed through a Flask API and integrated into a Flutter application.
+* **Fruits Object Detector:** MobileNetV2 + TensorFlow Lite for real-time object detection on mobile.
+* **ChatApp:** Flutter + Firebase authentication, database and notifications.
+* **MovieApp:** Flutter application consuming REST APIs.
+
+### Technical Skills
+
+**AI & Data:**
+Python, Machine Learning, Deep Learning, NLP, Computer Vision, OCR, PyTorch, TensorFlow, TensorFlow Lite, scikit-learn.
+
+**Agentic AI:**
+LLM applications, AI agents, tool calling, function calling, RAG, agent workflows, memory, multi-agent architectures, LangGraph, LangChain, CrewAI, OpenAI Agents SDK, OpenRouter and Ollama.
+
+**Software Development:**
+Flutter/Dart, Flask, Laravel, React, JavaScript/TypeScript, Next.js, Firebase, REST APIs, HTML/CSS, PHP, Java and Kotlin.
+
+### Professional Direction
+
+Taieb is progressively specializing in the intersection of **Artificial Intelligence, NLP, Agentic AI and Information Systems**, with an interest in building intelligent applications capable of reasoning, retrieving information, interacting with tools and automating complex workflows.
+
+His goal is to move beyond simply integrating AI models into applications and develop a deeper understanding of **how intelligent AI systems and autonomous agents are designed, orchestrated and deployed**.

@@ -1,0 +1,91 @@
+HAMMAMI TAIEB
+CONTACT
++216 55 781 449
+taiebhammami2001@gmail.com
+Nabeul, beniKhalled
+COMPÉTENCES 
+html5 
+ css3 JavaScript
+Java
+Php
+Python
+Pytorch
+Tensorflow
+Kotlin
+Flask
+Flutter
+Laravel
+React js
+Nlp
+Deep Learning
+Machine Learning
+Arabe: Langue maternelle
+Français
+Anglais
+LANGUES
+PROFILE
+Titulaire d'un master en Sciences et Ingénierie des Données (SIDATA) et
+d'une licence en Informatique de Gestion, je suis spécialisé dans la
+transformation et la valorisation des données. Mon approche technique
+rigoureuse et mon esprit d'innovation me permettent de concevoir des
+solutions adaptées aux enjeux data complexes.
+Stage de Fin d'Études Master — Projet : Lecteur de
+Chèques Automatisé (OCR)
+Création d’un modèle YOLO avec annotation Roboflow pour détecter
+les sections du chèque.
+Fine-tuning de TrOCR (montants en lettres) et développement d’un
+CNN+LSTM+CTC (montants en chiffres).
+Prétraitement d’image, détection, recadrage automatique, puis envoi
+aux modèles OCR.
+Vérification des incohérences entre montants en lettres et en chiffres.
+Intégration complète dans une application mobile Flutter
+Technologies utilisées : Python, Flutter, Deep Learning , Flask
+EXPÉRIENCES PROFESSIONNELLES
+     Stage de Projet de Fin d’Études — Licence
+ YOOREED - Sousse
+Concevoir et développer une application mobile permettant aux clients
+de consulter, suivre et bénéficier des offres qui leur sont destinées.
+Permettre aux entreprises d’ajouter et gérer leurs offres.
+Intégrer un système de notifications pour informer les clients en temps
+réel.
+Technologies utilisées : Flutter, Laravel, Firebase
+FACULTÉ DES SCIENCES ÉCONOMIQUES ET DE GESTION DE SFAX
+Mastère Professionnel Sciences et ingénierie des données SIDATA
+2023- 2025
+2020 - 2023
+INSTITUT SUPÉRIEURE D'ADMINISTRATION ET D'AFFAIRES DE SFAX
+License en informatique de gestion : Business Intelligence
+FORMATION
+2019 - 2020
+LYCÉE SECONDAIRE DE BÉNI KHALED - NABEUL
+Baccalauréat en Économie et GestionPROJETS ACADÉMIQUES/PERSONNELS
+Création d'une application mobile : ChatApp
+Création d'une application mobile : MovieApp
+Création d'une application mobile : Heart Failure Prédiction
+Conception et entraînement d’un modèle de machine learning pour prédire le risque d’insuffisance
+cardiaque à partir de données médicales (âge, tension artérielle, cholestérol, etc.).
+Intégration du modèle dans un backend Python avec Flask sous forme d’API REST.
+Création d’une interface conviviale permettant à l’utilisateur de saisir ses données et d’obtenir une
+prédiction instantanée.
+Technologies utilisées : Python, Flutter, Machine Learning , Flask
+Développement d’une application mobile multiplateforme avec Flutter.
+Intégration de Firebase Authentication pour la gestion des comptes utilisateurs.
+Mise en place de Firebase Firestore pour la gestion des messages en temps réel.
+Implémentation d’un système de messagerie instantanée avec envoi/réception de messages et
+notifications push.
+Technologies utilisées : Flutter, Firebase
+Développement d’une application mobile multiplateforme avec Flutter.
+Intégration d’une API pour récupérer les informations détaillées sur les films
+Implémentation d’une fonctionnalité de téléchargement de fichiers torrents directement depuis
+l’application.
+Technologies utilisées : Flutter, REST API
+Création d'une application mobile : FruitsObject detector
+Développement d’une application mobile multiplateforme avec Flutter.
+Entraînement d’un modèle de détection d’objets basé sur MobileNetV2 pour reconnaître différents
+types de fruits.
+Conversion du modèle entraîné en format TensorFlow Lite avec métadonnées compatibles Object
+Detection (bounding boxes, classes, etc.).
+Intégration du modèle TFLite dans l’application pour effectuer la détection d’objets en temps réel à
+l’aide de la caméra.
+Affichage dynamique des bounding boxes, des noms des fruits détectés, et des scores de confiance.
+Technologies utilisées : Flutter, Tensorflow Lite
