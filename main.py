@@ -52,7 +52,7 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "https://startling-sunshine-d8e68c.netlify.app"
+        "https://startling-sunshine-d8e68c.netlify.app",
         "http://localhost:5173",
         "http://127.0.0.1:5173",
     ],
@@ -95,7 +95,7 @@ def call_openrouter(messages):
             headers={
                 "Authorization": f"Bearer {API_KEY}",
                 "Content-Type": "application/json",
-                "HTTP-Referer": "http://localhost:5173",
+                "HTTP-Referer": "https://startling-sunshine-d8e68c.netlify.app",
                 "X-Title": "Taieb Digital Twin",
             },
             json={
